@@ -1,0 +1,34 @@
+Sample Document for Testing
+
+This is a sample document for testing the AI Document Summarizer app.
+
+Introduction:
+Artificial Intelligence (AI) has revolutionized many aspects of modern life, from healthcare to transportation. Machine learning algorithms can now process vast amounts of data and make predictions with remarkable accuracy.
+
+Key Benefits:
+- Automation of repetitive tasks
+- Enhanced decision-making capabilities  
+- Improved efficiency and productivity
+- Better pattern recognition
+- Personalized user experiences
+
+Applications:
+AI is being used in various fields including:
+1. Healthcare - for diagnosis and treatment recommendations
+2. Finance - for fraud detection and risk assessment
+3. Transportation - for autonomous vehicles
+4. Education - for personalized learning experiences
+5. Entertainment - for content recommendations
+
+Challenges:
+Despite its benefits, AI also presents challenges such as:
+- Privacy and security concerns
+- Job displacement
+- Ethical considerations
+- Need for regulation and oversight
+- Technical limitations and biases
+
+Conclusion:
+As AI technology continues to evolve, it is important to balance innovation with responsible development to ensure that the benefits are maximized while minimizing potential risks.
+
+This document serves as a test case for the document summarization functionality. The AI should be able to extract the key points and create a concise summary of the main topics covered.
